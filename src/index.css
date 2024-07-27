@@ -1,0 +1,32 @@
+.nav-outer {
+  border-bottom: 2px solid rgb(157, 153, 153);
+  border-radius: 4px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.logo-img {
+  height: 95px;
+  border-radius: 4px;
+  margin-top: 1px;
+  margin-left: 3px;
+}
+
+.header-items {
+  border: 2px sold black;
+  margin: 40px;
+}
+
+.header-items > span {
+  margin: 18px;
+  font-size: large;
+  cursor: pointer;
+}
+
+.log-btn {
+  border: 2px solid black;
+  padding: 2px;
+  border-radius: 4px;
+  color: white;
+  background-color: black;
+}
